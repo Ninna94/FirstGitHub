@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/gianinna/Code/FirstGitHub/FirstGitHub/bin/Debug/net6.0/wwwroot/_framework/blazor.webassembly.js",
+      "PackagePath": "staticwebassets/_framework/blazor.webassembly.js"
+    },
+    {
+      "Id": "/Users/gianinna/Code/FirstGitHub/FirstGitHub/obj/Debug/net6.0/build-gz/cCW4d63m.gz",
+      "PackagePath": "staticwebassets/_framework/blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "/Users/gianinna/Code/FirstGitHub/FirstGitHub/wwwroot/favicon.ico",
+      "PackagePath": "staticwebassets/favicon.ico"
+    },
+    {
+      "Id": "/Users/gianinna/Code/FirstGitHub/FirstGitHub/wwwroot/index.html",
+      "PackagePath": "staticwebassets/index.html"
+    },
+    {
+      "Id": "/Users/gianinna/Code/FirstGitHub/FirstGitHub/wwwroot/sample-data/weather.json",
+      "PackagePath": "staticwebassets/sample-data/weather.json"
+    },
+    {
+      "Id": "obj/Debug/net6.0/staticwebassets/msbuild.FirstGitHub.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net6.0/staticwebassets/msbuild.build.FirstGitHub.props",
+      "PackagePath": "build\\FirstGitHub.props"
+    },
+    {
+      "Id": "obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.FirstGitHub.props",
+      "PackagePath": "buildMultiTargeting\\FirstGitHub.props"
+    },
+    {
+      "Id": "obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.FirstGitHub.props",
+      "PackagePath": "buildTransitive\\FirstGitHub.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
